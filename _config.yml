@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Florent Lebon"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Lyon"
   employer         : "Lyon 1 University"
   uri              : # URL
   email            : "florent.lebon@univ-lyon1.fr" 
