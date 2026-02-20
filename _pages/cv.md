@@ -47,7 +47,7 @@ Work experience
   * University of California, Berkeley, CA, USA - Department of Psychology
   * Cognition and Action Lab, Prof. Rich Ivry
  
-* Jan. 2012 - June 201Z: Assistant Lecturer
+* Jan. 2012 - June 2012: Assistant Lecturer
   * University of Bourgogne, Dijon, France - Sport and Exercise Science Faculty
   * INSERM Lab Cognition, Action and Sensorimotor Plasticity
  
