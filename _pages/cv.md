@@ -11,26 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* HDR, French diploma to supervise research students, University of Bourgogne Franche-Comté, France, 2018
+* Ph.D in Sport and Exercise Science, University of Lyon 1, France, 2009
+* M.S. in Sport and Exercise Science, University of Lyon 1, France, 2006
+* B.S. in Sport and Exercise Science, University of Valenciennes, France, 2004
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sept. 2025-Now: Full Professor
+  * Lyon 1 University, Lyon, France - Sport and Exercise Science Faculty
+  * Inter-University Laboratory of Human Movement Biology - LIBM
+  * Team MP3 - Mental Processes, cerebral Plasticity and motor Performance
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2023 - Aug. 2025: Full Professor
+  * University of Bourgogne, Dijon, France - Sport and Exercise Science Faculty
+  * INSERM Lab Cognition, Action and Sensorimotor Plasticity
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2024 - June 2024: Research Sabbatical
+  * University of Auckland, Auckland, New Zealand - Department of Exercise Science
+  * Movement Neuroscience Lab, Prof. Winston Byblow & Prof. Cathy Stinear
+ 
+* Sept. 2018 - Feb. 2019: Research Sabbatical
+  * University of California, Berkeley, CA, USA - Department of Psychology
+  * Cognition and Action Lab, Prof. Rich Ivry
+
+* July 2018 - Aug. 2023: Associate Professor
+  * University of Bourgogne, Dijon, France - Sport and Exercise Science Faculty
+  * INSERM Lab Cognition, Action and Sensorimotor Plasticity
+    
+* Sept. 2012 - July 2018: Assistant Professor
+  * University of Bourgogne, Dijon, France - Sport and Exercise Science Faculty
+  * INSERM Lab Cognition, Action and Sensorimotor Plasticity
+ 
+* July 2012 - Aug. 2012: Visiting researcher
+  * University of California, Berkeley, CA, USA - Department of Psychology
+  * Cognition and Action Lab, Prof. Rich Ivry
+ 
+* Jan. 2012 - June 201Z: Assistant Lecturer
+  * University of Bourgogne, Dijon, France - Sport and Exercise Science Faculty
+  * INSERM Lab Cognition, Action and Sensorimotor Plasticity
+ 
+* Oct. 2011 - Dec. 2011: Internship
+  * University of California, Berkeley, CA, USA - Department of Psychology
+  * Cognition and Action Lab, Prof. Rich Ivry
+
+* Jan. 2010 - June 2011: Post-doc
+  * University of Auckland, Auckland, New Zealand - Department of Medicine
+  * Center for Brain Research, Prof. Cathy Stinear & Prof. Winston Byblow
   
 Skills
 ======
